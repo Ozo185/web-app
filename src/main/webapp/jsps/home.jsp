@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Acada Learning, Calgary, Canada Office.</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions to millions of clients.
+<h1 align="center">I love my darling PJ - Ufuoma Ozo of Calgary, Canada Office.</h1>
+<h1 align="center"> She is supporting so much as I am struggling with this web develoment, thank you. I love you. 
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance. God Loves you. Everyone will be hired </h1>
 <hr>
 <br>
