@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http://3.83.193.20:8081/repository/Ozo/</url>
+	      <url>http://3.83.193.20:8081/repository/Releasetest/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
